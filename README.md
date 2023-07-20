@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Devaraj S</h1>
 <h3 align="center">🚀 Game Developer | Unity Enthusiast | Space Explorer 🌌</h3>
 
-<img align="right" alt="Coding"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21ycDh0NWdxem01bmNtMnVwMjVxNm92Z3NyZXpvbnVmZm1mc2k1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xc3R3j4KFMvH01ZWaJ/giphy.gif">
+<img align="right" alt="Coding"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21ycDh0NWdxem01bmNtMnVwMjVxNm92Z3NyZXpvbnVmZm1mc2k1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xc3R3j4KFMvH01ZWaJ/giphy.gif" width="auto" height="250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deva209&label=Profile%20views&color=0e75b6&style=flat" alt="deva209" /> </p>
 
